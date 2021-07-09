@@ -20,38 +20,26 @@ p{
     font-size: 20px;
 }
 
-.col1{
-    display: flex;
-    width: 50%;
-    height: 20%;
-    
-}
-.col2{
-    display: flex; 
-    width: 50%;
-    height: 20%;
-}
-.col3{
-    display: flex;
-    width: 50%;
-    height: 20%;
-}
-.col4{
-    display: flex;
-    width: 50%;
-    height: 20%;
-}
  .card{
     float:left;
     width: 200px;
-    height: 200px;
-    margin-block-start: 200px;
+    height: 260px;
+    margin-block-start: 50px;
     margin-left: 50px;
-    margin-right: 50px;
-    background-color:floralwhite;
+    text-decoration: none;
     justify-content: center;
-    
+    align-items: center;
+    background-color:lavenderblush;
  }
-.button{
-    color:rgb(132, 61, 139);
+ .button{
+    border: none;
+    color:purple;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
 }
+
+
+
