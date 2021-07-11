@@ -23,7 +23,8 @@ img{
 
 p{
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
+    font-family: 'Uchen', serif;
 }
 
  .card{
@@ -83,7 +84,6 @@ h4{
     height: 2500px;
     margin-left: 0pc;
     text-align: center;
-
 }
 .p2{
     font-size: 30px;
@@ -122,6 +122,11 @@ h6{
     color: purple;
     text-align: center;
 } 
+
+.paragraph{
+    font-family: 'Uchen', serif;
+    font-size: 30px;
 }
+
 
 
